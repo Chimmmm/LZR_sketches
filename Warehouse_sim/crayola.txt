@@ -1,0 +1,175 @@
+{
+    "description": "List of Crayola crayon standard colors and positions",
+    "colors": [
+        {
+            "color": "1",
+            "hex": "#EFDECD",
+            "pox": "0",
+	        "poy": "200",
+	        "poz": "490"
+        },
+        {
+            "color": "2",
+            "hex": "#CD9575",
+            "pox": "0",
+	        "poy": "150",
+	        "poz": "490"
+        },
+        {
+            "color": "3",
+            "hex": "#FDD9B5",
+            "pox": "0",
+	    "poy": "100",
+	    "poz": "490"
+        },
+        {
+            "color": "4",
+            "hex": "#78DBE2",
+            "pox": "0",
+	    "poy": "50",
+	    "poz": "490"
+        },
+        {
+            "color": "5",
+            "hex": "#87A96B",
+            "pox": "0",
+	    "poy": "200",
+	    "poz": "392"
+        },
+        {
+            "color": "6",
+            "hex": "#FFA474",
+            "pox": "0",
+	    "poy": "150",
+	    "poz": "392"
+        },
+        {
+            "color": "7",
+            "hex": "#FAE7B5",
+            "pox": "0",
+	    "poy": "100",
+	    "poz": "392"
+        },
+        {
+            "color": "8",
+            "hex": "#9F8170",
+            "pox": "0",
+	    "poy": "50",
+	    "poz": "392"
+        },
+        {
+            "color": "9",
+            "hex": "#FD7C6E",
+            "pox": "0",
+	    "poy": "200",
+	    "poz": "294"
+        },
+        {
+            "color": "10",
+            "hex": "#000000",
+            "pox": "0",
+	    "poy": "150",
+	    "poz": "294"
+        },
+        {
+            "color": "11",
+            "hex": "#1F75FE",
+            "pox": "0",
+	    "poy": "100",
+	    "poz": "294"
+        },
+        {
+            "color": "12",
+            "hex": "#A2A2D0",
+            "pox": "0",
+	    "poy": "50",
+	    "poz": "294"
+        },
+        {
+            "color": "13",
+            "hex": "#0D98BA",
+            "pox": "0",
+	    "poy": "200",
+	    "poz": "194"
+        },
+        {
+            "color": "14",
+            "hex": "#7366BD",
+            "pox": "0",
+	    "poy": "150",
+	    "poz": "194"
+        },
+        {
+            "color": "15",
+            "hex": "#DE5D83",
+            "pox": "0",
+	    "poy": "100",
+	    "poz": "194"
+        },
+        {
+            "color": "16",
+            "hex": "#CB4154",
+            "pox": "0",
+	    "poy": "50",
+	    "poz": "194"
+        },
+        {
+            "color": "17",
+            "hex": "#B4674D",
+            "pox": "0",
+	    "poy": "200",
+	    "poz": "98"
+
+        },
+        {
+            "color": "18",
+            "hex": "#FF7F49",
+            "pox": "0",
+	    "poy": "150",
+	    "poz": "98"
+        },
+        {
+            "color": "19",
+            "hex": "#EA7E5D",
+            "pox": "0",
+	    "poy": "100",
+	    "poz": "98"
+        },
+        {
+            "color": "20",
+            "hex": "#B0B7C6",
+            "pox": "0",
+	    "poy": "50",
+	    "poz": "98"
+        },
+        {
+            "color": "21",
+            "hex": "#FFFF99",
+            "pox": "0",
+	    "poy": "200",
+	    "poz": "0"
+        },
+        {
+            "color": "22",
+            "hex": "#00CC99",
+            "pox": "0",
+	    "poy": "150",
+	    "poz": "0"
+        },
+        {
+            "color": "23",
+            "hex": "#FFAACC",
+            "pox": "0",
+	    "poy": "100",
+	    "poz": "0"
+        },
+        {
+            "color": "24",
+            "hex": "#DD4492",
+            "pox": "0",
+	    "poy": "50",
+	    "poz": "0"
+        }
+       
+    ]
+}
