@@ -1,0 +1,13 @@
+2022.08.26
+
+//
+done
+1.convert to INSTANCE MODE 
+2.set canvas in single sketch seperatly
+
+
+//
+next
+1.model partly rendering ( buffer screen I/O )
+2.canvas/sketches partly rendering  (only when KEYS being pressed)
+3. ****   A MOVEMENT DONE BY SOME FRAMES, THEN CHANGE FLAG=1 TO TRIGGER NEXT MOVES        ***                                             
