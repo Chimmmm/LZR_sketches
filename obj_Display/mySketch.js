@@ -136,7 +136,7 @@
 					 pop();
 			
 
-					 setupInstructions();
+					 //setupInstructions();
 			
 			}
 
