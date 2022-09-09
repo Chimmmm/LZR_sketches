@@ -150,7 +150,7 @@
 
 			let angle = 0;
 
-
+              /*
 			function setupInstructions() {
 				let instructions =  createDiv(`Instructions: <br>
 					z = Add more objects <br>
@@ -164,7 +164,7 @@
 				instructions.position(100, 200)
 				instructions.style("color", "#bbbbbb","size","1");
 			}
-
+			*/
 
 	
 
