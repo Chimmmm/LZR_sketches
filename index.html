@@ -1,6 +1,10 @@
 <html>
     <head> 
     <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width,user-scalable=yes,initial-scale=0.3,maximum-scale=0.3,shrink-to-fit=no">
+
+ 
+
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="renderer" content="webkit">
     <meta name="viewport" id="view" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
@@ -20,45 +24,6 @@
     
      </div>
 </body>
-
-<script type="text/javascript">
-    (function(doc, win) {
-        var html = doc.getElementsByTagName("html")[0],
-            reEvt = "orientationchange" in win ? "orientationchange" : "resize",
-            reFontSize = function() {
-                var clientW = doc.documentElement.clientWidth || doc.body.clientWidth;
-                if (!clientW) {
-                    return;
-                }
-                if (clientW > 800) html.style.fontSize = 15 * (clientW / 1920) + "px"; //1366为设计图宽度
-                else html.style.fontSize = "15px";
-            }
-        win.addEventListener(reEvt, reFontSize);
-        // DOMContentLoaded->dom加载完就执行,onload要dom/css/js都加载完才执行
-        doc.addEventListener("DOMContentLoaded", reFontSize);
-    })(document, window);
-    var ua = navigator.userAgent;
-
-    var ipad = ua.match(/(iPad).*OS\s([\d_]+)/),
-
-        isIphone = !ipad && ua.match(/(iPhone\sOS)\s([\d_]+)/),
-
-        isAndroid = ua.match(/(Android)\s+([\d.]+)/),
-
-        isMobile = isIphone || isAndroid;
-
-    //判断
-
-    if (isMobile) {
-        //获取设备像素
-        var devicewidth = document.documentElement.clientWidth;
-        var devicewidth2 = window.screen.width;
-        //按照比例 设置id为view的content值为scale，ok
-        var scale = devicewidth / 1920; //1366是我原本设计PC页面固定的大小，根据你自己页面进行修改
-
-        document.getElementById("view").setAttribute('content', "user-scalable=yes, width=device-width, initial-scale=" + scale);
-    }
-</script>
  
 
 </html>
