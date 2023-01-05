@@ -1,0 +1,49 @@
+    {
+       "MISSION_PATHS":
+      [   
+        {
+            "x": 912,
+            "y": 1222,
+             "orientation":"PI", 
+             "toward": "forward"
+        },
+        {
+            "x": 1342,
+            "y": 1222,
+             "orientation":"PI", 
+             "toward": "forward"
+        },
+        {
+            "x": 1342,
+            "y": 1100,
+             "orientation":"PI", 
+             "toward": "forward"
+        },
+        {
+            "x": 1342,
+            "y": 1222,
+             "orientation":"PI", 
+             "toward": "backward"
+        },
+        {
+            "x": 1542,
+            "y": 1222,
+             "orientation":"PI", 
+             "toward": "backward"
+        },
+        {
+            "x": 1542,
+            "y": 1492,
+             "orientation":"PI", 
+             "toward": "forward"
+        },
+        {
+            "x": 1188,
+            "y": 1492,
+             "orientation":"PI", 
+             "toward": "forward" 
+        }                     
+      ]
+
+
+    }
